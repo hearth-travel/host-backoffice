@@ -83874,7 +83874,7 @@ $1(a){return a.gki()===C.dl},
 $S:29}
 F.Te.prototype={
 F(a,b){var s=$.aUJ(),r=H.a([C.Jj,C.Jq,C.Jg],t.a9),q=H.a([new P.mh("it","")],t.ss)
-return new U.Bx(P.a1(["/",new F.ahY(),"/home2",new F.ahZ(),"/home",new F.ai_(),"/login",new F.ai0(),"/signup",new F.ai1(),"/mail",new F.ai2()],t.N,t.Ab),"Hearth Backoffice",s,r,q,C.GY,P.cf(0,0,0,0,0),null)}}
+return new U.Bx(P.a1(["/",new F.ahY(),"/home",new F.ahZ(),"/home2",new F.ai_(),"/login",new F.ai0(),"/signup",new F.ai1(),"/mail",new F.ai2()],t.N,t.Ab),"Hearth Backoffice",s,r,q,C.GY,P.cf(0,0,0,0,0),null)}}
 F.ahY.prototype={
 $1(a){return new G.rG(null)},
 $S:483}
