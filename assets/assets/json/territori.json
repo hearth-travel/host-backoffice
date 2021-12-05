@@ -1,0 +1,2226 @@
+[
+    {
+        "comune": "San Nicola Manfredi",
+        "id": 3
+    },
+    {
+        "id": 118,
+        "comune": "Sant’andrea Di Conza"
+    },
+    {
+        "id": 153,
+        "comune": "Capriglia Irpina"
+    },
+    {
+        "id": 188,
+        "comune": "Pontelandolfo"
+    },
+    {
+        "id": 257,
+        "comune": "San Cipriano D’aversa"
+    },
+    {
+        "id": 327,
+        "comune": "Frattamaggiore"
+    },
+    {
+        "id": 366,
+        "comune": "San Paolo Bel Sito"
+    },
+    {
+        "id": 402,
+        "comune": "Sant’arsenio"
+    },
+    {
+        "id": 439,
+        "comune": "Celle Di Bulgheria"
+    },
+    {
+        "id": 475,
+        "comune": "Roccapiedimonte"
+    },
+    {
+        "id": 510,
+        "comune": "Angri"
+    },
+    {
+        "id": 540,
+        "comune": "Valle Dell’angelo"
+    },
+    {
+        "id": 35,
+        "comune": "Campoli Sul Monte Taburno"
+    },
+    {
+        "id": 76,
+        "comune": "Casalbore"
+    },
+    {
+        "id": 120,
+        "comune": "Carife"
+    },
+    {
+        "id": 166,
+        "comune": "Contrada"
+    },
+    {
+        "id": 211,
+        "comune": "Vitulazio"
+    },
+    {
+        "id": 256,
+        "comune": "Casal Di Principe"
+    },
+    {
+        "id": 5,
+        "comune": "Sant’agata De Goti"
+    },
+    {
+        "id": 483,
+        "comune": "Tortorella"
+    },
+    {
+        "id": 391,
+        "comune": "San Gregorio Magno"
+    },
+    {
+        "id": 44,
+        "comune": "Molinara"
+    },
+    {
+        "id": 81,
+        "comune": "Montaguto"
+    },
+    {
+        "id": 551,
+        "comune": "Avellino"
+    },
+    {
+        "id": 298,
+        "comune": "Casamicciola Terme"
+    },
+    {
+        "id": 437,
+        "comune": "San Mauro La Bruca"
+    },
+    {
+        "id": 552,
+        "comune": "Salerno"
+    },
+    {
+        "id": 7,
+        "comune": "Airola"
+    },
+    {
+        "id": 553,
+        "comune": "Napoli"
+    },
+    {
+        "id": 29,
+        "comune": "Solopaca"
+    },
+    {
+        "id": 31,
+        "comune": "Telese Terme"
+    },
+    {
+        "id": 33,
+        "comune": "Montesarchio"
+    },
+    {
+        "id": 34,
+        "comune": "Apollosa"
+    },
+    {
+        "id": 36,
+        "comune": "Pannarano"
+    },
+    {
+        "id": 40,
+        "comune": "San Leucio Del Sannio"
+    },
+    {
+        "id": 42,
+        "comune": "Frasso Telesino"
+    },
+    {
+        "id": 54,
+        "comune": "Prata Di Principato Ultra"
+    },
+    {
+        "id": 56,
+        "comune": "Santa Paolina"
+    },
+    {
+        "id": 58,
+        "comune": "Montemiletto"
+    },
+    {
+        "id": 323,
+        "comune": "Casoria"
+    },
+    {
+        "id": 60,
+        "comune": "Montefusco"
+    },
+    {
+        "id": 61,
+        "comune": "Calitri"
+    },
+    {
+        "id": 63,
+        "comune": "Lacedonia"
+    },
+    {
+        "id": 65,
+        "comune": "Bisaccia"
+    },
+    {
+        "id": 554,
+        "comune": "Caserta"
+    },
+    {
+        "id": 66,
+        "comune": "Cairano"
+    },
+    {
+        "id": 68,
+        "comune": "Scampitella"
+    },
+    {
+        "id": 70,
+        "comune": "Montecalvo Irpino"
+    },
+    {
+        "id": 71,
+        "comune": "Villanova Del Battista"
+    },
+    {
+        "id": 73,
+        "comune": "Greci"
+    },
+    {
+        "id": 77,
+        "comune": "San Sossio Baronia"
+    },
+    {
+        "id": 79,
+        "comune": "Castel Baronia"
+    },
+    {
+        "id": 91,
+        "comune": "Parolise"
+    },
+    {
+        "id": 93,
+        "comune": "Bagnoli Irpino"
+    },
+    {
+        "id": 95,
+        "comune": "Senerchia"
+    },
+    {
+        "id": 96,
+        "comune": "Caposele"
+    },
+    {
+        "id": 98,
+        "comune": "Montemarano"
+    },
+    {
+        "id": 100,
+        "comune": "Torella Dei Lombardi"
+    },
+    {
+        "id": 102,
+        "comune": "Calabritto"
+    },
+    {
+        "id": 103,
+        "comune": "Avella"
+    },
+    {
+        "id": 105,
+        "comune": "San Martino Valle Caudina"
+    },
+    {
+        "id": 107,
+        "comune": "Baiano"
+    },
+    {
+        "id": 108,
+        "comune": "Sperone"
+    },
+    {
+        "id": 110,
+        "comune": "Roccabascerana"
+    },
+    {
+        "id": 114,
+        "comune": "Guardia Lombardi"
+    },
+    {
+        "id": 8,
+        "comune": "Moiano"
+    },
+    {
+        "id": 555,
+        "comune": "Benevento"
+    },
+    {
+        "id": 116,
+        "comune": "Morra De Sanctis"
+    },
+    {
+        "id": 130,
+        "comune": "Flumeri"
+    },
+    {
+        "id": 131,
+        "comune": "Bonito"
+    },
+    {
+        "id": 133,
+        "comune": "Taurasi"
+    },
+    {
+        "id": 135,
+        "comune": "Luogosano"
+    },
+    {
+        "id": 136,
+        "comune": "Lapio"
+    },
+    {
+        "id": 138,
+        "comune": "Torre Le Nocelle"
+    },
+    {
+        "id": 140,
+        "comune": "Fontanarosa"
+    },
+    {
+        "id": 141,
+        "comune": "Lauro"
+    },
+    {
+        "id": 143,
+        "comune": "Moschiano"
+    },
+    {
+        "id": 145,
+        "comune": "Pago Del Vallo Di Lauro"
+    },
+    {
+        "id": 147,
+        "comune": "Marzano Di Nola"
+    },
+    {
+        "id": 148,
+        "comune": "Monteforte Irpino"
+    },
+    {
+        "id": 151,
+        "comune": "Ospedaletto D’alpinolo"
+    },
+    {
+        "id": 163,
+        "comune": "Volturara Irpina"
+    },
+    {
+        "id": 165,
+        "comune": "Montoro"
+    },
+    {
+        "id": 167,
+        "comune": "San Giorgio Del Sannio"
+    },
+    {
+        "id": 169,
+        "comune": "Paduli"
+    },
+    {
+        "id": 556,
+        "comune": "Narnia"
+    },
+    {
+        "id": 170,
+        "comune": "Calvi"
+    },
+    {
+        "id": 172,
+        "comune": "Pago Veiano"
+    },
+    {
+        "id": 174,
+        "comune": "Ginestra Degli Schiavoni"
+    },
+    {
+        "id": 176,
+        "comune": "San Salvatore Telesino"
+    },
+    {
+        "id": 177,
+        "comune": "Puglianello"
+    },
+    {
+        "id": 179,
+        "comune": "Faicchio"
+    },
+    {
+        "id": 181,
+        "comune": "Cusano Mutri"
+    },
+    {
+        "id": 183,
+        "comune": "Dugenta"
+    },
+    {
+        "id": 184,
+        "comune": "Limatola"
+    },
+    {
+        "id": 365,
+        "comune": "Nola"
+    },
+    {
+        "id": 200,
+        "comune": "Casaluce"
+    },
+    {
+        "id": 202,
+        "comune": "San Marcellino"
+    },
+    {
+        "id": 203,
+        "comune": "Frignano"
+    },
+    {
+        "id": 205,
+        "comune": "Villa Di Briano"
+    },
+    {
+        "id": 207,
+        "comune": "San Tamarro"
+    },
+    {
+        "id": 208,
+        "comune": "San Prisco"
+    },
+    {
+        "id": 210,
+        "comune": "Curti"
+    },
+    {
+        "id": 212,
+        "comune": "Macerata Campania"
+    },
+    {
+        "id": 213,
+        "comune": "Portico D Caserta"
+    },
+    {
+        "id": 215,
+        "comune": "Camigliano"
+    },
+    {
+        "id": 10,
+        "comune": "Bucciano"
+    },
+    {
+        "id": 217,
+        "comune": "Giano Vetusto"
+    },
+    {
+        "id": 219,
+        "comune": "Fontegreca"
+    },
+    {
+        "id": 220,
+        "comune": "Ciorlano"
+    },
+    {
+        "id": 232,
+        "comune": "Cervino"
+    },
+    {
+        "id": 234,
+        "comune": "San Marco Evangelista"
+    },
+    {
+        "id": 236,
+        "comune": "Casagiove"
+    },
+    {
+        "id": 237,
+        "comune": "Recale"
+    },
+    {
+        "id": 239,
+        "comune": "Marcianise"
+    },
+    {
+        "id": 241,
+        "comune": "Castel Morrone"
+    },
+    {
+        "id": 243,
+        "comune": "Pontelatone"
+    },
+    {
+        "id": 245,
+        "comune": "Piana Di Monte Verna"
+    },
+    {
+        "id": 246,
+        "comune": "Liberi"
+    },
+    {
+        "id": 248,
+        "comune": "Caiazzo"
+    },
+    {
+        "id": 250,
+        "comune": "Cancello Ed Arnone"
+    },
+    {
+        "id": 252,
+        "comune": "Villa Literno"
+    },
+    {
+        "id": 253,
+        "comune": "Falciano Del Massico"
+    },
+    {
+        "id": 255,
+        "comune": "Carinola"
+    },
+    {
+        "id": 269,
+        "comune": "Sant’angelo D’alife"
+    },
+    {
+        "id": 271,
+        "comune": "Pietravairano"
+    },
+    {
+        "id": 273,
+        "comune": "Pietramelara"
+    },
+    {
+        "id": 274,
+        "comune": "Riardo"
+    },
+    {
+        "id": 11,
+        "comune": "Bonea"
+    },
+    {
+        "id": 276,
+        "comune": "Caianello"
+    },
+    {
+        "id": 278,
+        "comune": "Rocchetta E Croce"
+    },
+    {
+        "id": 280,
+        "comune": "Teano"
+    },
+    {
+        "id": 281,
+        "comune": "Formicola"
+    },
+    {
+        "id": 283,
+        "comune": "Roccamonfina"
+    },
+    {
+        "id": 285,
+        "comune": "Galluccio"
+    },
+    {
+        "id": 286,
+        "comune": "Rocca D’evandro"
+    },
+    {
+        "id": 288,
+        "comune": "Francolise"
+    },
+    {
+        "id": 290,
+        "comune": "Mignano Monte Lungo"
+    },
+    {
+        "id": 438,
+        "comune": "Pisciotta"
+    },
+    {
+        "id": 304,
+        "comune": "San Sebastiano Al Vesuvio"
+    },
+    {
+        "id": 306,
+        "comune": "Massa Di Somma"
+    },
+    {
+        "id": 307,
+        "comune": "Cercola"
+    },
+    {
+        "id": 309,
+        "comune": "Volla"
+    },
+    {
+        "id": 311,
+        "comune": "Trecase"
+    },
+    {
+        "id": 312,
+        "comune": "Somma Vesuviana"
+    },
+    {
+        "id": 314,
+        "comune": "Pomigliano D’arco"
+    },
+    {
+        "id": 316,
+        "comune": "Casalnuovo Di Napoli"
+    },
+    {
+        "id": 317,
+        "comune": "Acerra"
+    },
+    {
+        "id": 319,
+        "comune": "Brusciano"
+    },
+    {
+        "id": 321,
+        "comune": "Marigliano"
+    },
+    {
+        "id": 322,
+        "comune": "Afragola"
+    },
+    {
+        "id": 13,
+        "comune": "Forchia"
+    },
+    {
+        "id": 324,
+        "comune": "Caivano"
+    },
+    {
+        "id": 326,
+        "comune": "Cardito"
+    },
+    {
+        "id": 343,
+        "comune": "Casola Di Napoli"
+    },
+    {
+        "id": 345,
+        "comune": "Terzigno"
+    },
+    {
+        "id": 346,
+        "comune": "Poggiomarino"
+    },
+    {
+        "id": 348,
+        "comune": "San Giuseppe Vesuviano"
+    },
+    {
+        "id": 350,
+        "comune": "Pozzuoli"
+    },
+    {
+        "id": 351,
+        "comune": "Bacoli"
+    },
+    {
+        "id": 353,
+        "comune": "Qualiano"
+    },
+    {
+        "id": 355,
+        "comune": "Calvizzano"
+    },
+    {
+        "id": 356,
+        "comune": "Giugliano In Campania"
+    },
+    {
+        "id": 358,
+        "comune": "Sorrento"
+    },
+    {
+        "id": 360,
+        "comune": "Agerola"
+    },
+    {
+        "id": 361,
+        "comune": "Piano Di Sorrento"
+    },
+    {
+        "id": 363,
+        "comune": "Meta"
+    },
+    {
+        "id": 380,
+        "comune": "San Gennaro Vesuviano"
+    },
+    {
+        "id": 382,
+        "comune": "Amalfi"
+    },
+    {
+        "id": 383,
+        "comune": "Atrani"
+    },
+    {
+        "id": 385,
+        "comune": "Scala"
+    },
+    {
+        "id": 386,
+        "comune": "Conca Dei Marini"
+    },
+    {
+        "id": 388,
+        "comune": "Praiano"
+    },
+    {
+        "id": 390,
+        "comune": "Buccino"
+    },
+    {
+        "id": 341,
+        "comune": "Gragnano"
+    },
+    {
+        "id": 392,
+        "comune": "Palomonte"
+    },
+    {
+        "id": 393,
+        "comune": "Romagnano Al Monte"
+    },
+    {
+        "id": 395,
+        "comune": "Ricignano"
+    },
+    {
+        "id": 396,
+        "comune": "Pertosa"
+    },
+    {
+        "id": 398,
+        "comune": "Sicignano Degli Alburni"
+    },
+    {
+        "id": 400,
+        "comune": "Salvitelle"
+    },
+    {
+        "id": 414,
+        "comune": "Giungano"
+    },
+    {
+        "id": 415,
+        "comune": "Albanella"
+    },
+    {
+        "id": 417,
+        "comune": "Castelcivita"
+    },
+    {
+        "id": 419,
+        "comune": "Eboli"
+    },
+    {
+        "id": 421,
+        "comune": "Castel San Lorenzo"
+    },
+    {
+        "id": 422,
+        "comune": "Aquara"
+    },
+    {
+        "id": 424,
+        "comune": "Ottati"
+    },
+    {
+        "id": 426,
+        "comune": "Perdifumo"
+    },
+    {
+        "id": 427,
+        "comune": "Montecorice"
+    },
+    {
+        "id": 429,
+        "comune": "Serramezzana"
+    },
+    {
+        "id": 431,
+        "comune": "San Mauro Cilento"
+    },
+    {
+        "id": 432,
+        "comune": "Stella Cilento"
+    },
+    {
+        "id": 434,
+        "comune": "Omignano"
+    },
+    {
+        "id": 436,
+        "comune": "Camerota"
+    },
+    {
+        "id": 452,
+        "comune": "Campagna"
+    },
+    {
+        "id": 454,
+        "comune": "Laviano"
+    },
+    {
+        "id": 456,
+        "comune": "Castelnuovo Di Conza"
+    },
+    {
+        "id": 457,
+        "comune": "Valva"
+    },
+    {
+        "id": 459,
+        "comune": "Giffoni Sei Casali"
+    },
+    {
+        "id": 461,
+        "comune": "Montecorvino Rovella"
+    },
+    {
+        "id": 463,
+        "comune": "Castiglione Del Genovesi"
+    },
+    {
+        "id": 465,
+        "comune": "Bellizzi"
+    },
+    {
+        "id": 466,
+        "comune": "Olevano Sul Trusciano"
+    },
+    {
+        "id": 468,
+        "comune": "Battipaglia"
+    },
+    {
+        "id": 470,
+        "comune": "Cava De’ Tirreni"
+    },
+    {
+        "id": 471,
+        "comune": "Fisciano"
+    },
+    {
+        "id": 473,
+        "comune": "Castel San Giorgio"
+    },
+    {
+        "id": 487,
+        "comune": "Ispani"
+    },
+    {
+        "id": 489,
+        "comune": "Sapri"
+    },
+    {
+        "id": 491,
+        "comune": "Sarno"
+    },
+    {
+        "id": 492,
+        "comune": "Pagani"
+    },
+    {
+        "id": 494,
+        "comune": "San Valentino Torio"
+    },
+    {
+        "id": 496,
+        "comune": "Sant’egidio Del Monte Albino"
+    },
+    {
+        "id": 498,
+        "comune": "Scafati"
+    },
+    {
+        "id": 499,
+        "comune": "Padula"
+    },
+    {
+        "id": 501,
+        "comune": "Sassano"
+    },
+    {
+        "id": 503,
+        "comune": "Montesano Sulla Marcellana"
+    },
+    {
+        "id": 504,
+        "comune": "Monte San Giacomo"
+    },
+    {
+        "id": 506,
+        "comune": "Teggiano"
+    },
+    {
+        "id": 508,
+        "comune": "Vietri Sul Mare"
+    },
+    {
+        "id": 2,
+        "comune": "San Martino Sannita"
+    },
+    {
+        "id": 520,
+        "comune": "Perito"
+    },
+    {
+        "id": 521,
+        "comune": "Cicerale"
+    },
+    {
+        "id": 523,
+        "comune": "Perito"
+    },
+    {
+        "id": 525,
+        "comune": "Torchiara"
+    },
+    {
+        "id": 526,
+        "comune": "Vallo Della Lucania"
+    },
+    {
+        "id": 528,
+        "comune": "Orria"
+    },
+    {
+        "id": 530,
+        "comune": "Laurino"
+    },
+    {
+        "id": 531,
+        "comune": "Laurito"
+    },
+    {
+        "id": 533,
+        "comune": "Piaggine"
+    },
+    {
+        "id": 535,
+        "comune": "Gioi"
+    },
+    {
+        "id": 537,
+        "comune": "Campora"
+    },
+    {
+        "id": 538,
+        "comune": "Cannalonga"
+    },
+    {
+        "id": 6,
+        "comune": "Arpaia"
+    },
+    {
+        "id": 9,
+        "comune": "Paolisi"
+    },
+    {
+        "id": 12,
+        "comune": "Tocco Caudio"
+    },
+    {
+        "id": 14,
+        "comune": "Durazzano"
+    },
+    {
+        "id": 16,
+        "comune": "Baselice"
+    },
+    {
+        "id": 18,
+        "comune": "Colle Sannita"
+    },
+    {
+        "id": 21,
+        "comune": "Circello"
+    },
+    {
+        "id": 23,
+        "comune": "Guardia Sanframondi"
+    },
+    {
+        "id": 25,
+        "comune": "San Lupo"
+    },
+    {
+        "id": 28,
+        "comune": "San Lorenzello"
+    },
+    {
+        "id": 30,
+        "comune": "Vitulano"
+    },
+    {
+        "id": 32,
+        "comune": "Casalduni"
+    },
+    {
+        "id": 46,
+        "comune": "Pesco Sannita"
+    },
+    {
+        "id": 48,
+        "comune": "Montefalcone Di Val Fortore"
+    },
+    {
+        "id": 50,
+        "comune": "Altavilla Irpina"
+    },
+    {
+        "id": 53,
+        "comune": "Chianche"
+    },
+    {
+        "id": 55,
+        "comune": "Torrioni"
+    },
+    {
+        "id": 57,
+        "comune": "Pratola Serra"
+    },
+    {
+        "id": 59,
+        "comune": "Montefalcione"
+    },
+    {
+        "id": 62,
+        "comune": "Monteverde"
+    },
+    {
+        "id": 64,
+        "comune": "Aquilonia"
+    },
+    {
+        "id": 67,
+        "comune": "Andretta"
+    },
+    {
+        "id": 69,
+        "comune": "Ariano Irpino"
+    },
+    {
+        "id": 72,
+        "comune": "Savignano Irpino"
+    },
+    {
+        "id": 74,
+        "comune": "Vallesaccarda"
+    },
+    {
+        "id": 75,
+        "comune": "Trevico"
+    },
+    {
+        "id": 92,
+        "comune": "Sorbo Serpico"
+    },
+    {
+        "id": 94,
+        "comune": "Nusco"
+    },
+    {
+        "id": 97,
+        "comune": "Cassano Irpino"
+    },
+    {
+        "id": 99,
+        "comune": "Castelfranci"
+    },
+    {
+        "id": 101,
+        "comune": "Sant’angelo Dei Lombardi"
+    },
+    {
+        "id": 104,
+        "comune": "Rotondi"
+    },
+    {
+        "id": 106,
+        "comune": "Cervinara"
+    },
+    {
+        "id": 109,
+        "comune": "Sirignano"
+    },
+    {
+        "id": 111,
+        "comune": "Mugnano Del Cardinale"
+    },
+    {
+        "id": 112,
+        "comune": "Quadrelle"
+    },
+    {
+        "id": 113,
+        "comune": "Lioni"
+    },
+    {
+        "id": 115,
+        "comune": "Teora"
+    },
+    {
+        "id": 117,
+        "comune": "Conza Della Campania"
+    },
+    {
+        "id": 134,
+        "comune": "Venticano"
+    },
+    {
+        "id": 137,
+        "comune": "San Mango Sul Calore"
+    },
+    {
+        "id": 139,
+        "comune": "Pietradefusi"
+    },
+    {
+        "id": 144,
+        "comune": "Quindici"
+    },
+    {
+        "id": 146,
+        "comune": "Domicella"
+    },
+    {
+        "id": 149,
+        "comune": "Forino"
+    },
+    {
+        "id": 150,
+        "comune": "Mercogliano"
+    },
+    {
+        "id": 152,
+        "comune": "Summonte"
+    },
+    {
+        "id": 154,
+        "comune": "Sant’angelo A Scala"
+    },
+    {
+        "id": 157,
+        "comune": "Montella"
+    },
+    {
+        "id": 159,
+        "comune": "Castelvetere Sul Calore"
+    },
+    {
+        "id": 161,
+        "comune": "Chiusano Di San Domenico"
+    },
+    {
+        "id": 164,
+        "comune": "Solofra"
+    },
+    {
+        "id": 180,
+        "comune": "Melizzano"
+    },
+    {
+        "id": 182,
+        "comune": "Pietraroja"
+    },
+    {
+        "id": 185,
+        "comune": "Pietrelcina"
+    },
+    {
+        "id": 186,
+        "comune": "Campolattaro"
+    },
+    {
+        "id": 189,
+        "comune": "Morcone"
+    },
+    {
+        "id": 192,
+        "comune": "Paupisi"
+    },
+    {
+        "id": 194,
+        "comune": "Aversa"
+    },
+    {
+        "id": 196,
+        "comune": "Carinaro"
+    },
+    {
+        "id": 199,
+        "comune": "Cesa"
+    },
+    {
+        "id": 201,
+        "comune": "Trentola-ducenta"
+    },
+    {
+        "id": 204,
+        "comune": "Parete"
+    },
+    {
+        "id": 206,
+        "comune": "Capua"
+    },
+    {
+        "id": 209,
+        "comune": "Bellona"
+    },
+    {
+        "id": 224,
+        "comune": "Ailano"
+    },
+    {
+        "id": 226,
+        "comune": "Gallo Matese"
+    },
+    {
+        "id": 228,
+        "comune": "San Felice A Cancello"
+    },
+    {
+        "id": 231,
+        "comune": "Maddaloni"
+    },
+    {
+        "id": 233,
+        "comune": "Valle Di Maddaloni"
+    },
+    {
+        "id": 235,
+        "comune": "Santa Maria Capua Vetere"
+    },
+    {
+        "id": 238,
+        "comune": "Capodrise"
+    },
+    {
+        "id": 240,
+        "comune": "San Nicola La Strada"
+    },
+    {
+        "id": 242,
+        "comune": "Succivo"
+    },
+    {
+        "id": 244,
+        "comune": "Castel Di Sasso"
+    },
+    {
+        "id": 247,
+        "comune": "Orta Di Atella"
+    },
+    {
+        "id": 249,
+        "comune": "Castel Volturno"
+    },
+    {
+        "id": 251,
+        "comune": "Mondragone"
+    },
+    {
+        "id": 254,
+        "comune": "Grazzanise"
+    },
+    {
+        "id": 270,
+        "comune": "Letino"
+    },
+    {
+        "id": 272,
+        "comune": "Vairano Patenora"
+    },
+    {
+        "id": 275,
+        "comune": "Roccaromana"
+    },
+    {
+        "id": 277,
+        "comune": "Presenzano"
+    },
+    {
+        "id": 279,
+        "comune": "Marzano Appio"
+    },
+    {
+        "id": 282,
+        "comune": "Sessa Aurunca"
+    },
+    {
+        "id": 284,
+        "comune": "Cellole"
+    },
+    {
+        "id": 287,
+        "comune": "Conca Della Campania"
+    },
+    {
+        "id": 289,
+        "comune": "Calvi Risorta"
+    },
+    {
+        "id": 291,
+        "comune": "Sparanise"
+    },
+    {
+        "id": 294,
+        "comune": "Anacapri"
+    },
+    {
+        "id": 296,
+        "comune": "Lacco Ameno"
+    },
+    {
+        "id": 297,
+        "comune": "Serrara Fontana"
+    },
+    {
+        "id": 315,
+        "comune": "Castello Di Cisterna"
+    },
+    {
+        "id": 318,
+        "comune": "Somma Vesuviana"
+    },
+    {
+        "id": 320,
+        "comune": "Mariglianella"
+    },
+    {
+        "id": 325,
+        "comune": "Casavatore"
+    },
+    {
+        "id": 328,
+        "comune": "Grumo Nevano"
+    },
+    {
+        "id": 330,
+        "comune": "Arzano"
+    },
+    {
+        "id": 333,
+        "comune": "Casandrino"
+    },
+    {
+        "id": 334,
+        "comune": "Melito Di Napoli"
+    },
+    {
+        "id": 335,
+        "comune": "Pompei"
+    },
+    {
+        "id": 337,
+        "comune": "Castellammare Di Stabia"
+    },
+    {
+        "id": 339,
+        "comune": "Torre Annunziata"
+    },
+    {
+        "id": 342,
+        "comune": "Sant’antonio Abate"
+    },
+    {
+        "id": 359,
+        "comune": "Pimonte"
+    },
+    {
+        "id": 362,
+        "comune": "Vico Equense"
+    },
+    {
+        "id": 364,
+        "comune": "Massa Lubrense"
+    },
+    {
+        "id": 367,
+        "comune": "Cimitile"
+    },
+    {
+        "id": 369,
+        "comune": "Camposano"
+    },
+    {
+        "id": 371,
+        "comune": "Comiziano"
+    },
+    {
+        "id": 372,
+        "comune": "Liveri"
+    },
+    {
+        "id": 374,
+        "comune": "Tufino"
+    },
+    {
+        "id": 377,
+        "comune": "Palma Campania"
+    },
+    {
+        "id": 379,
+        "comune": "Visciano"
+    },
+    {
+        "id": 381,
+        "comune": "San Vitaliano"
+    },
+    {
+        "id": 384,
+        "comune": "Corbara"
+    },
+    {
+        "id": 387,
+        "comune": "Furore"
+    },
+    {
+        "id": 389,
+        "comune": "Positano"
+    },
+    {
+        "id": 408,
+        "comune": "Roscigno"
+    },
+    {
+        "id": 409,
+        "comune": "Sacco"
+    },
+    {
+        "id": 411,
+        "comune": "Piaggine"
+    },
+    {
+        "id": 413,
+        "comune": "Trentinara"
+    },
+    {
+        "id": 416,
+        "comune": "Roccadaspide"
+    },
+    {
+        "id": 418,
+        "comune": "Controne"
+    },
+    {
+        "id": 420,
+        "comune": "Altavilla Silentina"
+    },
+    {
+        "id": 423,
+        "comune": "Controne"
+    },
+    {
+        "id": 425,
+        "comune": "Castellabate"
+    },
+    {
+        "id": 428,
+        "comune": "Laureana Cilento"
+    },
+    {
+        "id": 430,
+        "comune": "Sessa Cilento"
+    },
+    {
+        "id": 433,
+        "comune": "Stio"
+    },
+    {
+        "id": 435,
+        "comune": "Ascea"
+    },
+    {
+        "id": 453,
+        "comune": "Serre"
+    },
+    {
+        "id": 455,
+        "comune": "Santomenna"
+    },
+    {
+        "id": 458,
+        "comune": "Giffoni Valle Piana"
+    },
+    {
+        "id": 460,
+        "comune": "Montecorvino Pugliano"
+    },
+    {
+        "id": 462,
+        "comune": "San Cipriano Picentino"
+    },
+    {
+        "id": 464,
+        "comune": "San Mango Piemonte"
+    },
+    {
+        "id": 467,
+        "comune": "Acerno"
+    },
+    {
+        "id": 469,
+        "comune": "Pontacagnano Faiano"
+    },
+    {
+        "id": 472,
+        "comune": "Baronissi"
+    },
+    {
+        "id": 474,
+        "comune": "Siano"
+    },
+    {
+        "id": 477,
+        "comune": "Mercato San Severino"
+    },
+    {
+        "id": 479,
+        "comune": "Pellezzano"
+    },
+    {
+        "id": 482,
+        "comune": "Santa Marina"
+    },
+    {
+        "id": 500,
+        "comune": "Sala Consilina"
+    },
+    {
+        "id": 502,
+        "comune": "Buonabitacolo"
+    },
+    {
+        "id": 505,
+        "comune": "Casalbuono"
+    },
+    {
+        "id": 507,
+        "comune": "Sanza"
+    },
+    {
+        "id": 509,
+        "comune": "Cetara"
+    },
+    {
+        "id": 512,
+        "comune": "Maiori"
+    },
+    {
+        "id": 514,
+        "comune": "Agropoli"
+    },
+    {
+        "id": 517,
+        "comune": "Ogliastro Cilento"
+    },
+    {
+        "id": 519,
+        "comune": "Felitto"
+    },
+    {
+        "id": 522,
+        "comune": "Monteforte Cilento"
+    },
+    {
+        "id": 524,
+        "comune": "Magliano Vetere"
+    },
+    {
+        "id": 527,
+        "comune": "Castelnuovo Cilento"
+    },
+    {
+        "id": 529,
+        "comune": "Novi Velia"
+    },
+    {
+        "id": 15,
+        "comune": "Castelvetere In Val F."
+    },
+    {
+        "id": 17,
+        "comune": "San Bartolomeo In Galdo"
+    },
+    {
+        "id": 19,
+        "comune": "Foiano In Val Fortone"
+    },
+    {
+        "id": 20,
+        "comune": "Castel Pagano"
+    },
+    {
+        "id": 22,
+        "comune": "Reino"
+    },
+    {
+        "id": 24,
+        "comune": "San Lorenzo Maggiore"
+    },
+    {
+        "id": 26,
+        "comune": "Cerreto Sannita"
+    },
+    {
+        "id": 27,
+        "comune": "Castelvenere"
+    },
+    {
+        "id": 45,
+        "comune": "San Giorgio  La Monara"
+    },
+    {
+        "id": 47,
+        "comune": "Fragneto L’abate"
+    },
+    {
+        "id": 49,
+        "comune": "Fragneto Monforte"
+    },
+    {
+        "id": 51,
+        "comune": "Petruro Irpino"
+    },
+    {
+        "id": 52,
+        "comune": "Tufo"
+    },
+    {
+        "id": 82,
+        "comune": "Atripalda"
+    },
+    {
+        "id": 84,
+        "comune": "Aiello Del Sabato"
+    },
+    {
+        "id": 86,
+        "comune": "San Potito Ultra"
+    },
+    {
+        "id": 88,
+        "comune": "Santo Stefano Del Sole"
+    },
+    {
+        "id": 89,
+        "comune": "San Michele Di Serino"
+    },
+    {
+        "id": 119,
+        "comune": "Vallata"
+    },
+    {
+        "id": 121,
+        "comune": "Paternopoli"
+    },
+    {
+        "id": 123,
+        "comune": "Frigento"
+    },
+    {
+        "id": 124,
+        "comune": "Sturno"
+    },
+    {
+        "id": 126,
+        "comune": "Sant’angelo All’esca"
+    },
+    {
+        "id": 128,
+        "comune": "Rocca San Felice"
+    },
+    {
+        "id": 155,
+        "comune": "Grottolella"
+    },
+    {
+        "id": 156,
+        "comune": "Pietrastornina"
+    },
+    {
+        "id": 158,
+        "comune": "Serino"
+    },
+    {
+        "id": 160,
+        "comune": "Santa Lucia Di Serino"
+    },
+    {
+        "id": 162,
+        "comune": "Salza Irpina"
+    },
+    {
+        "id": 190,
+        "comune": "Sassinoro"
+    },
+    {
+        "id": 191,
+        "comune": "Torrecuso"
+    },
+    {
+        "id": 193,
+        "comune": "Santa Croce Del Sannio"
+    },
+    {
+        "id": 195,
+        "comune": "Lusciano"
+    },
+    {
+        "id": 197,
+        "comune": "Teverola"
+    },
+    {
+        "id": 198,
+        "comune": "Gricignano Di Aversa"
+    },
+    {
+        "id": 222,
+        "comune": "Pratella"
+    },
+    {
+        "id": 403,
+        "comune": "San Pietro Al Tanagro"
+    },
+    {
+        "id": 225,
+        "comune": "Caprati A Volturno"
+    },
+    {
+        "id": 227,
+        "comune": "Raviscanina"
+    },
+    {
+        "id": 229,
+        "comune": "Sant’angelo D’alife"
+    },
+    {
+        "id": 230,
+        "comune": "Arienzo"
+    },
+    {
+        "id": 259,
+        "comune": "Santa Maria La Fossa"
+    },
+    {
+        "id": 262,
+        "comune": "San Gregorio Matese"
+    },
+    {
+        "id": 264,
+        "comune": "Gioia Sannitica"
+    },
+    {
+        "id": 266,
+        "comune": "San Potito Sannico"
+    },
+    {
+        "id": 267,
+        "comune": "Baia E Latina"
+    },
+    {
+        "id": 292,
+        "comune": "Tora E Piccilli"
+    },
+    {
+        "id": 293,
+        "comune": "Capri"
+    },
+    {
+        "id": 295,
+        "comune": "Ischia"
+    },
+    {
+        "id": 299,
+        "comune": "Forio"
+    },
+    {
+        "id": 301,
+        "comune": "Procida"
+    },
+    {
+        "id": 302,
+        "comune": "Ercolano"
+    },
+    {
+        "id": 329,
+        "comune": "Mugnano Di Napoli"
+    },
+    {
+        "id": 331,
+        "comune": "Crispano"
+    },
+    {
+        "id": 332,
+        "comune": "Frattaminore"
+    },
+    {
+        "id": 336,
+        "comune": "Boscoreale"
+    },
+    {
+        "id": 338,
+        "comune": "Santa Maria La Carita’"
+    },
+    {
+        "id": 340,
+        "comune": "Boscotrecase"
+    },
+    {
+        "id": 368,
+        "comune": "Casamarciano"
+    },
+    {
+        "id": 370,
+        "comune": "Saviano"
+    },
+    {
+        "id": 373,
+        "comune": "Cicciano"
+    },
+    {
+        "id": 375,
+        "comune": "Scisciano"
+    },
+    {
+        "id": 376,
+        "comune": "Roccarainola"
+    },
+    {
+        "id": 378,
+        "comune": "Carbonara Di Nola"
+    },
+    {
+        "id": 405,
+        "comune": "San Rufo"
+    },
+    {
+        "id": 407,
+        "comune": "Sant’angelo A Fasanella"
+    },
+    {
+        "id": 410,
+        "comune": "Bellosguardo"
+    },
+    {
+        "id": 412,
+        "comune": "Capaccio - Paestum"
+    },
+    {
+        "id": 441,
+        "comune": "Casalvelino"
+    },
+    {
+        "id": 443,
+        "comune": "Centola"
+    },
+    {
+        "id": 444,
+        "comune": "Cuccaro Vetere"
+    },
+    {
+        "id": 447,
+        "comune": "Ceraso"
+    },
+    {
+        "id": 449,
+        "comune": "Oliveto Citra"
+    },
+    {
+        "id": 450,
+        "comune": "Colliano"
+    },
+    {
+        "id": 476,
+        "comune": "Bracigliano"
+    },
+    {
+        "id": 478,
+        "comune": "Calvanico"
+    },
+    {
+        "id": 480,
+        "comune": "Morigerati"
+    },
+    {
+        "id": 481,
+        "comune": "Caselle In Pittari"
+    },
+    {
+        "id": 484,
+        "comune": "Casaletto Spartano"
+    },
+    {
+        "id": 486,
+        "comune": "Vibonati"
+    },
+    {
+        "id": 511,
+        "comune": "Tramonti"
+    },
+    {
+        "id": 513,
+        "comune": "Minori"
+    },
+    {
+        "id": 515,
+        "comune": "Prignano Cilento"
+    },
+    {
+        "id": 516,
+        "comune": "Rutino"
+    },
+    {
+        "id": 518,
+        "comune": "Lustra"
+    },
+    {
+        "id": 1,
+        "comune": "San Nazzaro"
+    },
+    {
+        "id": 542,
+        "comune": "Napoli Municipalita'  2"
+    },
+    {
+        "id": 544,
+        "comune": "Napoli Municipalita'  4"
+    },
+    {
+        "id": 546,
+        "comune": "Napoli Municipalita'  6"
+    },
+    {
+        "id": 548,
+        "comune": "Napoli Municipalita'  8"
+    },
+    {
+        "id": 550,
+        "comune": "Napoli Municipalita' 10"
+    },
+    {
+        "id": 4,
+        "comune": "Sant’angelo A Cupolo"
+    },
+    {
+        "id": 37,
+        "comune": "Arpaise"
+    },
+    {
+        "id": 38,
+        "comune": "Cautano"
+    },
+    {
+        "id": 39,
+        "comune": "Castelpoto"
+    },
+    {
+        "id": 41,
+        "comune": "Ceppaloni"
+    },
+    {
+        "id": 43,
+        "comune": "San Marco Dei Cavoti"
+    },
+    {
+        "id": 78,
+        "comune": "San Nicola Baronia"
+    },
+    {
+        "id": 80,
+        "comune": "Zungoli"
+    },
+    {
+        "id": 83,
+        "comune": "Cesinali"
+    },
+    {
+        "id": 85,
+        "comune": "Manocalzati"
+    },
+    {
+        "id": 87,
+        "comune": "Montefredane"
+    },
+    {
+        "id": 90,
+        "comune": "Candida"
+    },
+    {
+        "id": 122,
+        "comune": "Grottaminarda"
+    },
+    {
+        "id": 125,
+        "comune": "Villamaina"
+    },
+    {
+        "id": 127,
+        "comune": "Gesualdo"
+    },
+    {
+        "id": 129,
+        "comune": "Melito Irpino"
+    },
+    {
+        "id": 132,
+        "comune": "Mirabella Eclano"
+    },
+    {
+        "id": 142,
+        "comune": "Taurano"
+    },
+    {
+        "id": 168,
+        "comune": "Sant’arcangelo Trimone"
+    },
+    {
+        "id": 171,
+        "comune": "Buonalbergo"
+    },
+    {
+        "id": 173,
+        "comune": "Apice"
+    },
+    {
+        "id": 175,
+        "comune": "Castelfranco In Miscano"
+    },
+    {
+        "id": 178,
+        "comune": "Amorosi"
+    },
+    {
+        "id": 187,
+        "comune": "Ponte"
+    },
+    {
+        "id": 214,
+        "comune": "Casapulla"
+    },
+    {
+        "id": 216,
+        "comune": "Pastorano"
+    },
+    {
+        "id": 218,
+        "comune": "Pignataro Maggiore"
+    },
+    {
+        "id": 221,
+        "comune": "Prata Sannita"
+    },
+    {
+        "id": 223,
+        "comune": "Valle Agricola"
+    },
+    {
+        "id": 258,
+        "comune": "Casapesenna"
+    },
+    {
+        "id": 260,
+        "comune": "Piedimonte Matese"
+    },
+    {
+        "id": 261,
+        "comune": "Castello Del Matese"
+    },
+    {
+        "id": 263,
+        "comune": "Alife"
+    },
+    {
+        "id": 265,
+        "comune": "Dragoni"
+    },
+    {
+        "id": 268,
+        "comune": "Alvignano"
+    },
+    {
+        "id": 300,
+        "comune": "Barano D’ischia"
+    },
+    {
+        "id": 303,
+        "comune": "San Giorgio A Cremano"
+    },
+    {
+        "id": 305,
+        "comune": "Torre Del Greco"
+    },
+    {
+        "id": 308,
+        "comune": "Pollena Trocchia"
+    },
+    {
+        "id": 310,
+        "comune": "Sant’anastasia"
+    },
+    {
+        "id": 313,
+        "comune": "Portici"
+    },
+    {
+        "id": 344,
+        "comune": "Lettere"
+    },
+    {
+        "id": 347,
+        "comune": "Striano"
+    },
+    {
+        "id": 349,
+        "comune": "Ottaviano"
+    },
+    {
+        "id": 352,
+        "comune": "Quarto"
+    },
+    {
+        "id": 354,
+        "comune": "Marano Di Napoli"
+    },
+    {
+        "id": 357,
+        "comune": "Villaricca"
+    },
+    {
+        "id": 394,
+        "comune": "Petina"
+    },
+    {
+        "id": 397,
+        "comune": "Auletta"
+    },
+    {
+        "id": 399,
+        "comune": "Caggiano"
+    },
+    {
+        "id": 401,
+        "comune": "Polla"
+    },
+    {
+        "id": 404,
+        "comune": "Atena Lucana"
+    },
+    {
+        "id": 406,
+        "comune": "Corleto Monforte"
+    },
+    {
+        "id": 440,
+        "comune": "Montano Antilia"
+    },
+    {
+        "id": 442,
+        "comune": "Futani"
+    },
+    {
+        "id": 445,
+        "comune": "San Giovanni A Piro"
+    },
+    {
+        "id": 446,
+        "comune": "Pollica"
+    },
+    {
+        "id": 448,
+        "comune": "Contursi Terme"
+    },
+    {
+        "id": 451,
+        "comune": "Postiglione"
+    },
+    {
+        "id": 485,
+        "comune": "Torre Orsaia"
+    },
+    {
+        "id": 488,
+        "comune": "Torraca"
+    },
+    {
+        "id": 490,
+        "comune": "Roccagloriosa"
+    },
+    {
+        "id": 493,
+        "comune": "Nocera Superiore"
+    },
+    {
+        "id": 495,
+        "comune": "Nocera Inferiore"
+    },
+    {
+        "id": 497,
+        "comune": "San Marzano Sul Sarno"
+    },
+    {
+        "id": 532,
+        "comune": "Rofrano"
+    },
+    {
+        "id": 534,
+        "comune": "Salento"
+    },
+    {
+        "id": 536,
+        "comune": "Moio Della Civitella"
+    },
+    {
+        "id": 539,
+        "comune": "Alfano"
+    },
+    {
+        "id": 541,
+        "comune": "Napoli Municipalita'  1"
+    },
+    {
+        "id": 543,
+        "comune": "Napoli Municipalita'  3"
+    },
+    {
+        "id": 545,
+        "comune": "Napoli Municipalita'  5"
+    },
+    {
+        "id": 547,
+        "comune": "Napoli Municipalita'  7"
+    },
+    {
+        "id": 549,
+        "comune": "Napoli Municipalita'  9"
+    }
+]
