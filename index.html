@@ -28,13 +28,31 @@
 
     <title>hearth_backoffice</title>
     <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+
+<!--splashscreen-->
+<div align="center" style="position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);">
+    <div align="center" style="position: fixed;
+    transform: translate(-50%, -50%);" >
+        <img src="img/logo.svg"  style="width: 200px;" />
+        <img src="img/hearth.svg" style="width: 200px;"  />
+        <div class="loader" style="padding-top: 2px;margin-top: 4px;">
+            <div class="loaderBar"></div>
+        </div>
+    </div>
+</div>
+
+
 <!-- MapBox -->
 <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
 <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet'/>
 
-<!-- Flutter WebGL 2.0 fix (https://github.com/flutter/flutter/issues/89655) -->
+ <!--Flutter WebGL 2.0 fix (https://github.com/flutter/flutter/issues/89655)-->
 <script type="text/javascript">
   HTMLCanvasElement.prototype.getContext = function (orig) {
      return function(type) {
@@ -43,11 +61,11 @@
   }(HTMLCanvasElement.prototype.getContext)
 </script>
 
-<!-- This script installs service_worker.js to provide PWA functionality to
+ <!--This script installs service_worker.js to provide PWA functionality to
      application. For more information, see:
-     https://developers.google.com/web/fundamentals/primers/service-workers -->
+     https://developers.google.com/web/fundamentals/primers/service-workers-->
 <script>
-    var serviceWorkerVersion = '2156695158';
+    var serviceWorkerVersion = '1402878487';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -109,9 +127,6 @@
       // Service workers not supported. Just drop the <script> tag.
       loadMainDartJs();
     }
-
-
-
 </script>
 </body>
 </html>
